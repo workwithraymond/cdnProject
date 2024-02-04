@@ -1,12 +1,12 @@
 const projects = [
     {
-      title: 'birthday buddy',
-      url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
-      image: './assets/birthday.png',
+      title: 'image search',
+      url: 'https://jovial-trifle-905ccf.netlify.app/',
+      image: './assets/SearchImageProject.png',
     },
     {
       title: 'tours',
-      url: 'https://react-vite-projects-2-tours.netlify.app/',
+      url: 'https://shimmering-belekoy-114498.netlify.app/',
       image: './assets/tours.png',
     },
     {
